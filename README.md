@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Images
 
 ### Web
-<img src = "images/localhost_1.jpg" height=600> <img src = "images/localhost_2.jpg" height=600> <img src = "images/localhost_3.jpg" height=600> <img src = "images/localhost_4.jpg" height=600>
+<img src = "images/localhost_1.png" height=600> <img src = "images/localhost_2.png" height=600> <img src = "images/localhost_3.png" height=600> <img src = "images/localhost_4.png" height=600>
 
 
 ### Android
